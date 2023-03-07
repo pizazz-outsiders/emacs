@@ -1,0 +1,10 @@
+auto-save-list/
+elpa/
+eshell/
+transient/
+.cache/
+amx-items
+projectile-bookmarks.eld
+recentf
+.mc-lists.el
+.projectile
